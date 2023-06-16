@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Demi5479
-- 👀 I’m interested in mmmmm
-- 🌱 I’m currently learning eeeee
-- 💞️ I’m looking to collaborate on yo mom
-- 📫 How to reach me in box under bridge
+- 👀 I’m interested in HTML, PHP and C#
+- 🌱 I’m currently learning HTML, PHP and C#
+- 💞️ I’m looking to collaborate on projects to further extend my knowledge about software development
+- 📫 You can reach me by sending an email
 
 <!---
 Demi5479/Demi5479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
